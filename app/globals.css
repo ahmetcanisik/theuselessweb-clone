@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+.useless-text {
+  @apply w-full p-0 text-shadow-sm font-thin text-shadow-[#999] text-[#333];
+}
+
+.useless-button {
+  color: #de1c6a;
+  @apply cursor-pointer px-8
+  text-2xl tracking-wider
+  text-white
+  bg-pink-500
+  rounded-md
+  shadow-[0_8px_0_0_#de1c6a]
+  hover:bg-pink-700
+  hover:shadow-[0_6px_0_0_#c2185b]
+  active:translate-y-[2px]
+  active:shadow-[0_6px_0_0_#c2185b]
+  transition-all duration-150;
+}
+
+.link {
+  @apply text-lime-500;
+}
