@@ -1,12 +1,12 @@
 # The Useless Website Clone
 
-Bu projede ünlü theuselesswebsite.com sitesini klonladık.
+In this project, we cloned theuselessweb.com.
 
-## Neler Farklı?
-- Kullanışlı web siteleri her zaman orjinal sitedekiyle aynı olacaktır.
-- Tasarım anlamında ufak değişiklikler yapılmıştır.
+## What's different from the original website
+- Useless websites are always the same as the original website.
+- Design (small changes)
 
-## Düzeltilmeyi bekleyen sorunlar
-- Mobil tarafında düzen kayması yaşanmaktadır.
+## Some problems
+- Mobile responsivity
 
 Clone by [ahmetcanisik](https://www.ahmetcanisik.com)
