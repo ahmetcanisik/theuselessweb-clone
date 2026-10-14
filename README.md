@@ -2,7 +2,7 @@
 
 In this project, we cloned theuselessweb.com.
 
-## What's different from the original website
+## Features
 - Useless websites are always the same as the original website.
 - Design (small changes)
 
